@@ -100,15 +100,6 @@ public class Postava {
     }
     
     /**
-     * Metoda, která nastaví inventář postavy.
-     * 
-     * @param inventar nastavovaný inventář postavy
-     */
-    public void setInventar(Inventar inventar) {
-        this.inventar = inventar;
-    }
-    
-    /**
      * Metoda, která vrací odkaz na inventář postavy.
      * 
      * @return inventar inventář postavy
